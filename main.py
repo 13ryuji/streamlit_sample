@@ -9,3 +9,7 @@ st.write('https://ryuji-web-sample.web.app/')
 st.title('ネタ')
 st.write('Webスクレイピング')
 st.write('さわやかビッグデータプロジェクト')
+
+st.markdown('### 事業内容')
+st.markdown('- Web制作')
+st.markdown('- LINE公式アカウント運用')
