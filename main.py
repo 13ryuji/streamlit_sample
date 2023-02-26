@@ -14,6 +14,7 @@ achievement_list = [
     'https://13ryuji-mtg-limited-balance-app-yn7767.streamlit.app/',
     'https://ryuji-web-sample.web.app/',
     'https://lookerstudio.google.com/u/0/reporting/f64eb01b-92d8-42a0-b4bf-116d3bd2395e/page/7OeBD',
+    'https://lookerstudio.google.com/u/0/reporting/fe94d0b9-2997-435a-8178-b68e3092ca4d/page/esp6C',
     'https://docs.google.com/forms/d/e/1FAIpQLSdLjVrNiLXZ_GOnqe-BpfOaRzOdUBy0F3ztM9tGsBrLDT4qAA/viewform',
     'https://youtu.be/cQ3za3qn9fw',
     'https://youtu.be/Iv_moPO-k7c',
