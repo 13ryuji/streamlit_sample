@@ -5,11 +5,19 @@ import numpy as np
 biz_list = [
     'web制作',
     'SNS運用',
-    'RPA'
+    'アンケート作成&集計'
+    'RPA',
+    '動画制作'
 ]
 
 achievement_list = [
     'https://ryuji-web-sample.web.app/',
+    'https://lookerstudio.google.com/u/0/reporting/f64eb01b-92d8-42a0-b4bf-116d3bd2395e/page/7OeBD',
+    'https://docs.google.com/forms/d/e/1FAIpQLSdLjVrNiLXZ_GOnqe-BpfOaRzOdUBy0F3ztM9tGsBrLDT4qAA/viewform',
+    'https://youtu.be/cQ3za3qn9fw',
+    'https://youtu.be/Iv_moPO-k7c',
+    'https://youtu.be/v-ko11CcRJE',
+    'https://youtu.be/1s9POUTwh0E',
 ]
 
 bonz_list = [
@@ -23,7 +31,7 @@ seed_list = [
     'さわやかビッグデータプロジェクト',
     '地域メタゲーム集計ツール',
     'ローカル線めぐりパーフェクトガイド',
-    '',
+    '商工会のプロと学ぶ独立起業＆副業',
 ]
 st.title('Maverick')
 st.header('事業内容')
